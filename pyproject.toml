@@ -1,7 +1,7 @@
 [project]
 name = "ctbench"
 version = "0.1.0"
-description = "Add your description here"
+description = "Benchmark of methods for cell type annotation"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
